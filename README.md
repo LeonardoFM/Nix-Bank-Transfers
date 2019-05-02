@@ -1,10 +1,10 @@
 # README
 
-## This repo is the Nix bank tranferation service module implemented using pyramid cornice frameworks project
+## This repo is the Nix bank transfer service module implemented using pyramid cornice frameworks project
 
 The pyramid repo (https://github.com/Pylons/pyramid) for dev consulting
 
-The cornice is an REST framework and has post, get and delete implemented, sufficient for transeferention service implementation.
+The cornice is a REST framework and has post, get and delete implemented, sufficient for transfer service implementation.
 
 
 * Python 3.7
